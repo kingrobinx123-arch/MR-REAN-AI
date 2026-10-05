@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+data/
+workspace/
+uploads/
+*.sqlite3
+secrets/
